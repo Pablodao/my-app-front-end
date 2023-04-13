@@ -8,8 +8,14 @@
 # testing
 /coverage
 
+# IDE
+/.idea
+
 # production
 /build
+
+#next
+/.next
 
 # misc
 .DS_Store
